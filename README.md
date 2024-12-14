@@ -11,15 +11,15 @@ I'm a third year computer software engineering student at Western University.
 
 ```text
 💬 Programming Languages: 
-VHDL                     1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-vhdl-game-of-life        1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/12/2024 18:45:13 UTC
+ Last Updated on 14/12/2024 18:42:44 UTC
 <!--END_SECTION:waka-->
