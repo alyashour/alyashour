@@ -11,15 +11,19 @@ I'm a third year computer software engineering student at Western University.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   5 hrs 4 mins        ███████████████████████░░   90.88 % 
+CSV/TSV                  23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  5 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FlightSchedulingLP       5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/12/2024 18:45:50 UTC
+ Last Updated on 17/12/2024 18:46:02 UTC
 <!--END_SECTION:waka-->
