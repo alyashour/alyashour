@@ -7,20 +7,23 @@ I'm also founder and president of WE Autopilot club. Check us out on [our org pa
 
 ## 💻 Software Skills, Technologies, & Tools 🛠️
 
-<div>
-  <a href="#"><img alt="java" src ="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk"/></a>
-  <a href="#"><img alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="#"><img alt="Node.JS" src="https://img.shields.io/badge/Node.JS-78B362?style=for-the-badge&logo=nodedotjs&logoColor=grey"/></a>
-  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00589D?style=for-the-badge&logo=cplusplus"></a>
-  <a href="#"><img alt="dotnet" src="https://img.shields.io/badge/.NET-AF78DD?style=for-the-badge&logo=dotnet&logoColor=white"></a>
-  <a href="#"><img alt="postgresql" src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-  <a href="#"><img alt="mysql" src="https://img.shields.io/badge/MySQL-6A89A7?style=for-the-badge&logo=mysql&logoColor=orange"/></a>
-  <a href="#"><img alt="UML" src="https://img.shields.io/badge/UML-yellow?style=for-the-badge&logo=uml&logoColor=purple"></a>
-  <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-darkgrey?style=for-the-badge&logo=unity&logoColor=FAF9F6"></a>
-  <a href="#"><img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon%20Web%20Services-141F2E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"></a>
-  <a href="#"><img alt="MS Azure" src="https://img.shields.io/badge/MS%20Azure-FAF9F6?style=for-the-badge"></a> 
-</div>
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 <br>
 
 
