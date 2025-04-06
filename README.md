@@ -56,6 +56,6 @@ Assignment2              1 hr 26 mins        █░░░░░░░░░░�
 I'm learning OpenGL!
 This is my **[waves demo](https://github.com/alyashour/Gerstner-waves)** (made with geometric shaders!) and my **[marching cubes project](https://github.com/alyashour/Marching-Cube-Renderer)**.
 <p>
-  <img src="./assets/demo_waves.gif" alt="Waves Demo" width="410"/>
-  <img src="./assets/demo_marching_cubes.gif" alt="Cubes Demo" width="500"/>
+  <img src="./assets/demo_waves.gif" alt="Waves Demo" width="310"/>
+  <img src="./assets/demo_marching_cubes.gif" alt="Cubes Demo" width="378"/>
 </p>
