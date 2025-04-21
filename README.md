@@ -32,17 +32,21 @@ I'm also founder and president of WE Autopilot club. Check us out on [our org pa
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      7 mins              ██████████████░░░░░░░░░░░   55.33 % 
+OCaml                    5 mins              ███████████░░░░░░░░░░░░░░   43.61 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   8 mins              ███████████████░░░░░░░░░░   61.44 % 
+VS Code                  5 mins              ██████████░░░░░░░░░░░░░░░   38.56 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          8 mins              ███████████████░░░░░░░░░░   61.44 % 
+calc                     5 mins              ██████████░░░░░░░░░░░░░░░   38.56 % 
 ```
 
 
- Last Updated on 20/04/2025 18:43:56 UTC
+ Last Updated on 21/04/2025 18:46:19 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
