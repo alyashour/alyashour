@@ -32,21 +32,17 @@ I'm also founder and president of WE Autopilot club. Check us out on [our org pa
 
 ```text
 💬 Programming Languages: 
-C++                      9 mins              █████████████████████░░░░   85.44 % 
-Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              ██████████████████████░░░   86.02 % 
-iTerm2                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-minimal_project          9 mins              ██████████████████████░░░   86.02 % 
-A6-OWL                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/08/2025 18:46:37 UTC
+ Last Updated on 22/08/2025 18:46:56 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
