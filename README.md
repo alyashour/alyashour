@@ -2,8 +2,8 @@
 I'm a third year Computer Software Engineering student at Western University.  
 I'm also founder and president of WE Autopilot club. Check us out on [our org page](https://github.com/WE-Autopilot).
 
-- 🔭 I’m currently working on CVA & Recurse
-- 🌱 I’m currently learning Go, C++, OpenGL
+- 🔭 I’m currently working on Kairos
+- 🌱 I’m currently learning C++, ROS2, Machine Learning, and OpenGL
 
 ## 💻 Software Skills, Technologies, & Tools 🛠️
 
