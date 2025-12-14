@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Aly Ashour
+# Hello, I'm Aly Ashour
 I'm a third year Computer Software Engineering student at Western University.  
 I'm also founder and president of WE Autopilot club. Check us out on [our org page](https://github.com/WE-Autopilot).
 
