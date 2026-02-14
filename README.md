@@ -2,10 +2,10 @@
 I'm a Software Engineering student at Western University.  
 I'm also founder and president of WE Autopilot club. Check us out on [our org page](https://github.com/WE-Autopilot).
 
-- 🔭 I’m currently working on RocketSim
-- 🌱 I’m currently learning C, ROS2, Machine Learning, and OpenGL
+- 🔭 I’m currently working on Planning and Control of a self-driving car called AP1.
+- 🌱 I’m currently learning Go, C, ROS2, and OpenGL.
 
-Check out my website here: [alyashour.dev](https://www.alyashour.dev)
+Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ## 💻 Software Skills, Technologies, & Tools 🛠️
 
@@ -53,3 +53,13 @@ This is my **[waves demo](https://github.com/alyashour/Gerstner-waves)** (made w
   <img src="./assets/demo_waves.gif" alt="Waves Demo" width="310"/>
   <img src="./assets/demo_marching_cubes.gif" alt="Cubes Demo" width="378"/>
 </p>
+
+And this is Autopilot1:  
+<div style="overflow: scroll">
+ <img width="auto" height="250" alt="Data Flow Diagram" src="https://github.com/user-attachments/assets/9d1463e0-1fe8-49df-aaba-99a18adca1c4" />
+ <img width="auto" height="350" alt="AP1 System Diagram" src="https://github.com/user-attachments/assets/3467da2b-af8b-4fab-a5d1-252c84765162" /> 
+</div>
+
+
+
+
