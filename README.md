@@ -22,25 +22,27 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 46 mins       ███████████████████████░░   91.79 % 
-tutor                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Other                    2 hrs 50 mins       ████████████████████████░   96.64 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+sshconfig                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-iTerm2                   2 hrs 43 mins       ███████████████████████░░   90.15 % 
-Neovim                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+iTerm2                   2 hrs 43 mins       ███████████████████████░░   92.89 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Neovim                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🐱‍💻 Projects: 
-orc                      2 hrs 19 mins       ███████████████████░░░░░░   76.95 % 
-homebrew                 38 mins             █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+orc                      2 hrs 19 mins       ████████████████████░░░░░   79.29 % 
+homebrew                 29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+global-inventory-config  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+prometheus-stack         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 
- Last Updated on 02/03/2026 19:09:27 UTC
+ Last Updated on 03/03/2026 19:13:29 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
