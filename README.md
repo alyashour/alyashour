@@ -22,27 +22,27 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 44 mins       ████████████████████████░   96.53 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Other                    3 hrs 26 mins       ████████████████████████░   97.34 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 sshconfig                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-iTerm2                   2 hrs 33 mins       ██████████████████████░░░   89.88 % 
-Neovim                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+iTerm2                   3 hrs 14 mins       ███████████████████████░░   91.98 % 
+Neovim                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🐱‍💻 Projects: 
-orc                      2 hrs 19 mins       ████████████████████░░░░░   81.95 % 
-prometheus-stack         18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-global-inventory-config  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-homebrew                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+orc                      2 hrs 19 mins       █████████████████░░░░░░░░   66.03 % 
+build-files              41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+prometheus-stack         18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+global-inventory-config  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 
- Last Updated on 05/03/2026 19:40:37 UTC
+ Last Updated on 06/03/2026 19:07:40 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
