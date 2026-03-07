@@ -22,27 +22,23 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 26 mins       ████████████████████████░   97.34 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-sshconfig                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    1 hr 11 mins        ████████████████████████░   97.61 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+conf                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-iTerm2                   3 hrs 14 mins       ███████████████████████░░   91.98 % 
-Neovim                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+iTerm2                   1 hr                ████████████████████░░░░░   81.90 % 
+Neovim                   13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
 
 🐱‍💻 Projects: 
-orc                      2 hrs 19 mins       █████████████████░░░░░░░░   66.03 % 
-build-files              41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-prometheus-stack         18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-global-inventory-config  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+build-files              41 mins             ██████████████░░░░░░░░░░░   56.51 % 
+prometheus-stack         20 mins             ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+Unknown Project          7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+global-inventory-config  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 ```
 
 
- Last Updated on 06/03/2026 19:07:40 UTC
+ Last Updated on 07/03/2026 18:55:06 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
