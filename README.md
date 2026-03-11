@@ -22,27 +22,27 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 11 mins        ██████████████░░░░░░░░░░░   56.97 % 
-C++                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-YAML                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Bash                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Other                    45 mins             ███████████░░░░░░░░░░░░░░   45.66 % 
+C++                      18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+YAML                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Bash                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-iTerm2                   1 hr                ████████████░░░░░░░░░░░░░   47.82 % 
-Neovim                   42 mins             █████████░░░░░░░░░░░░░░░░   34.03 % 
-VS Code                  22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+iTerm2                   41 mins             ██████████░░░░░░░░░░░░░░░   41.66 % 
+Neovim                   35 mins             █████████░░░░░░░░░░░░░░░░   35.42 % 
+VS Code                  22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
 
 🐱‍💻 Projects: 
-build-files              41 mins             ████████░░░░░░░░░░░░░░░░░   32.99 % 
-prometheus-stack         34 mins             ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-dotfiles                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-planning                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Unknown Project          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+build-files              41 mins             ██████████░░░░░░░░░░░░░░░   41.66 % 
+prometheus-stack         15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+dotfiles                 14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+planning                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+pnc_sim                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 ```
 
 
- Last Updated on 10/03/2026 19:12:10 UTC
+ Last Updated on 11/03/2026 19:13:58 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
