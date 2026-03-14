@@ -22,26 +22,26 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Go                       31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-Markdown                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-C++                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-YAML                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Go                       2 hrs 36 mins       ██████████████░░░░░░░░░░░   57.91 % 
+Markdown                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+C++                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+YAML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 
 🔥 Editors: 
-VS Code                  1 hr 18 mins        ██████████████░░░░░░░░░░░   57.72 % 
-Neovim                   57 mins             ███████████░░░░░░░░░░░░░░   42.28 % 
+VS Code                  3 hrs 32 mins       ████████████████████░░░░░   78.25 % 
+Neovim                   58 mins             █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
 
 🐱‍💻 Projects: 
-workspace                47 mins             █████████░░░░░░░░░░░░░░░░   34.63 % 
-Unknown Project          24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-prometheus-stack         15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-dotfiles                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-planning                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+workspace                3 hrs               █████████████████░░░░░░░░   66.69 % 
+Unknown Project          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+prometheus-stack         15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+dotfiles                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+planning                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 ```
 
 
- Last Updated on 13/03/2026 19:06:24 UTC
+ Last Updated on 14/03/2026 19:02:06 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
