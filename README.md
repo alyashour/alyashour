@@ -22,26 +22,26 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Go                       3 hrs               ██████████████████░░░░░░░   73.02 % 
-Markdown                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-conf                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-sshconfig                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Go                       3 hrs               ██████████████████░░░░░░░   71.73 % 
+Markdown                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+conf                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 42 mins       ███████████████████████░░   90.17 % 
-Neovim                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+VS Code                  3 hrs 42 mins       ██████████████████████░░░   88.58 % 
+Neovim                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
 
 🐱‍💻 Projects: 
-workspace                3 hrs 5 mins        ███████████████████░░░░░░   74.99 % 
-ws                       28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Unknown Project          23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-orc                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-ap1                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+workspace                3 hrs 5 mins        ██████████████████░░░░░░░   73.67 % 
+ws                       28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Unknown Project          24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+orc                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+mongo-patch-upgrade      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 
- Last Updated on 18/03/2026 19:28:44 UTC
+ Last Updated on 19/03/2026 19:26:46 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
