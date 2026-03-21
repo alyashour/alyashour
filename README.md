@@ -22,25 +22,25 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Go                       2 hrs 28 mins       █████████████████████░░░░   85.43 % 
-Markdown                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-sshconfig                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Go                       23 mins             ███████████████░░░░░░░░░░   60.72 % 
+Markdown                 9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+YAML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 47 mins       ████████████████████████░   96.14 % 
-Neovim                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+VS Code                  33 mins             ██████████████████████░░░   86.62 % 
+Neovim                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
 
 🐱‍💻 Projects: 
-workspace                2 hrs 18 mins       ████████████████████░░░░░   79.49 % 
-ws                       28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-mongo-patch-upgrade      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+ws                       28 mins             ███████████████████░░░░░░   74.75 % 
+workspace                4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+mongo-patch-upgrade      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 
 
- Last Updated on 20/03/2026 19:10:09 UTC
+ Last Updated on 21/03/2026 18:58:43 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
