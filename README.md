@@ -22,25 +22,25 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Go                       1 hr                ████████████████████░░░░░   79.24 % 
-Markdown                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Go                       1 hr                ████████████████████░░░░░   78.69 % 
+Markdown                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        ███████████████████████░░   93.20 % 
-Neovim                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+VS Code                  1 hr 10 mins        ███████████████████████░░   92.55 % 
+Neovim                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 
 🐱‍💻 Projects: 
-ws                       1 hr 6 mins         ██████████████████████░░░   87.16 % 
-workspace                4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-mongo-patch-upgrade      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+ws                       1 hr 6 mins         ██████████████████████░░░   86.55 % 
+workspace                4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+mongo-patch-upgrade      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
- Last Updated on 23/03/2026 19:25:27 UTC
+ Last Updated on 24/03/2026 19:33:01 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
