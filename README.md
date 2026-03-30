@@ -22,27 +22,26 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 56 mins       ██████████████████░░░░░░░   71.23 % 
-Go                       36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Python                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Other                    3 hrs 56 mins       ████████████████████░░░░░   80.27 % 
+Python                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Docker                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-iTerm2                   3 hrs 54 mins       ██████████████████░░░░░░░   70.70 % 
-Neovim                   59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-VS Code                  37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+iTerm2                   3 hrs 54 mins       ████████████████████░░░░░   79.68 % 
+Neovim                   59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
 
 🐱‍💻 Projects: 
-realsense-ros            1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   28.96 % 
-ap1                      1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-ros-docker               1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-prometheus-stack         47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-ws                       37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+realsense-ros            1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   32.64 % 
+ap1                      1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+ros-docker               1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+prometheus-stack         47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 ```
 
 
- Last Updated on 29/03/2026 19:07:16 UTC
+ Last Updated on 30/03/2026 19:32:27 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
