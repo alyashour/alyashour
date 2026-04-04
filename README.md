@@ -22,27 +22,26 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 46 mins       ███████████████████░░░░░░   74.31 % 
-Go                       1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Other                    3 hrs 48 mins       █████████████████░░░░░░░░   67.57 % 
+Go                       1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   30.80 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-iTerm2                   4 hrs 46 mins       ███████████████████░░░░░░   74.31 % 
-VS Code                  1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+iTerm2                   3 hrs 48 mins       █████████████████░░░░░░░░   67.57 % 
+VS Code                  1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   32.17 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🐱‍💻 Projects: 
-workspace                5 hrs 23 mins       █████████████████████░░░░   83.86 % 
-realsense-ros            59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-ap1                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-ros-docker               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-mapping_and_localization 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+workspace                5 hrs 36 mins       █████████████████████████   99.64 % 
+ros-docker               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+realsense-ros            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+ap1                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 
- Last Updated on 03/04/2026 19:09:55 UTC
+ Last Updated on 04/04/2026 19:06:49 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
