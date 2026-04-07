@@ -22,27 +22,27 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 13 mins       █████████████░░░░░░░░░░░░   53.05 % 
-Go                       4 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.71 % 
-Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Other                    6 hrs 12 mins       █████████████░░░░░░░░░░░░   53.94 % 
+Go                       4 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.92 % 
+Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-iTerm2                   6 hrs 13 mins       █████████████░░░░░░░░░░░░   53.05 % 
-VS Code                  5 hrs 29 mins       ████████████░░░░░░░░░░░░░   46.77 % 
-Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+iTerm2                   6 hrs 12 mins       █████████████░░░░░░░░░░░░   53.94 % 
+VS Code                  5 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.87 % 
+Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-workspace                11 hrs 42 mins      █████████████████████████   99.77 % 
+workspace                11 hrs 30 mins      █████████████████████████   99.81 % 
 ros-docker               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-realsense-ros            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ap1                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+perception               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 06/04/2026 19:34:37 UTC
+ Last Updated on 07/04/2026 19:35:10 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
