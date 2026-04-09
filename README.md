@@ -22,27 +22,27 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 28 mins       ██████████████░░░░░░░░░░░   57.03 % 
-Go                       3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.64 % 
-Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    6 hrs 30 mins       ████████████████░░░░░░░░░   62.11 % 
+Go                       2 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   28.23 % 
+Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-iTerm2                   6 hrs 28 mins       ██████████████░░░░░░░░░░░   57.03 % 
-VS Code                  4 hrs 50 mins       ███████████░░░░░░░░░░░░░░   42.76 % 
-Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+iTerm2                   6 hrs 30 mins       ████████████████░░░░░░░░░   62.11 % 
+VS Code                  3 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   37.66 % 
+Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-workspace                11 hrs 2 mins       ████████████████████████░   97.38 % 
-ws                       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-ros-docker               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-ap1                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+workspace                10 hrs 7 mins       ████████████████████████░   96.73 % 
+ws                       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+ros-docker               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+ap1                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 
- Last Updated on 08/04/2026 19:44:53 UTC
+ Last Updated on 09/04/2026 19:44:00 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
