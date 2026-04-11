@@ -22,27 +22,27 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Go                       2 hrs 57 mins       ███████████░░░░░░░░░░░░░░   44.22 % 
-Other                    2 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   40.71 % 
-Markdown                 59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Go                       2 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   39.81 % 
+Other                    2 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.52 % 
+Markdown                 59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 56 mins       ███████████████░░░░░░░░░░   59.00 % 
-iTerm2                   2 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   40.71 % 
-Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+VS Code                  3 hrs 42 mins       ██████████████░░░░░░░░░░░   54.26 % 
+iTerm2                   2 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.52 % 
+Neovim                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 
 🐱‍💻 Projects: 
-workspace                6 hrs 20 mins       ████████████████████████░   94.94 % 
-ws                       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-perihelion               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+workspace                6 hrs 5 mins        ██████████████████████░░░   89.12 % 
+Unknown Project          24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+ws                       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+perihelion               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 perception               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 10/04/2026 19:25:35 UTC
+ Last Updated on 11/04/2026 19:09:54 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
