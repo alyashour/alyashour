@@ -22,25 +22,23 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 50 mins        ████████████████████░░░░░   81.14 % 
-Docker                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    54 mins             ████████████████████░░░░░   81.57 % 
+YAML                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-iTerm2                   1 hr 50 mins        ████████████████████░░░░░   81.14 % 
-Neovim                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+iTerm2                   54 mins             ████████████████████░░░░░   81.57 % 
+Neovim                   12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
 
 🐱‍💻 Projects: 
-prometheus-stack         59 mins             ███████████░░░░░░░░░░░░░░   43.17 % 
-ros-docker               46 mins             █████████░░░░░░░░░░░░░░░░   34.21 % 
-perihelion               30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+prometheus-stack         59 mins             ██████████████████████░░░   88.63 % 
+ros-docker               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 
 
- Last Updated on 19/04/2026 19:12:58 UTC
+ Last Updated on 20/04/2026 19:38:24 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
