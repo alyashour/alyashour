@@ -22,23 +22,22 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    54 mins             ████████████████████░░░░░   81.57 % 
-YAML                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    54 mins             ████████████████████░░░░░   81.08 % 
+YAML                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
 C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-iTerm2                   54 mins             ████████████████████░░░░░   81.57 % 
-Neovim                   12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+iTerm2                   54 mins             ████████████████████░░░░░   81.08 % 
+Neovim                   12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
 
 🐱‍💻 Projects: 
-prometheus-stack         59 mins             ██████████████████████░░░   88.63 % 
-ros-docker               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+prometheus-stack         59 mins             ██████████████████████░░░   88.95 % 
+ros-docker               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 
- Last Updated on 20/04/2026 19:38:24 UTC
+ Last Updated on 21/04/2026 19:43:34 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
