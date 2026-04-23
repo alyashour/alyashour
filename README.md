@@ -22,20 +22,17 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    46 mins             ████████████████████░░░░░   78.78 % 
-YAML                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+YAML                     12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-iTerm2                   46 mins             ████████████████████░░░░░   78.78 % 
-Neovim                   12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+Neovim                   12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-prometheus-stack         59 mins             █████████████████████████   99.95 % 
-ros-docker               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+prometheus-stack         12 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/04/2026 19:45:32 UTC
+ Last Updated on 23/04/2026 19:48:15 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
