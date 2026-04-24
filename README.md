@@ -22,17 +22,17 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-YAML                     12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-prometheus-stack         12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/04/2026 19:48:15 UTC
+ Last Updated on 24/04/2026 19:26:43 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
