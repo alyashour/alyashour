@@ -22,17 +22,23 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    51 mins             ██████████████████░░░░░░░   73.08 % 
+Markdown                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+iTerm2                   51 mins             ██████████████████░░░░░░░   73.08 % 
+Neovim                   19 mins             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+prometheus-stack         42 mins             ███████████████░░░░░░░░░░   60.05 % 
+Notes                    20 mins             ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+workspace                4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 ```
 
 
- Last Updated on 05/05/2026 19:56:01 UTC
+ Last Updated on 06/05/2026 20:08:02 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
