@@ -22,27 +22,27 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    37 mins             ████████████░░░░░░░░░░░░░   48.89 % 
-C                        27 mins             █████████░░░░░░░░░░░░░░░░   35.90 % 
-Makefile                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Zig                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+C                        37 mins             ██████████░░░░░░░░░░░░░░░   38.91 % 
+Other                    37 mins             ██████████░░░░░░░░░░░░░░░   38.04 % 
+Makefile                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Zig                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████░░░░░░░░░░░░   50.73 % 
-iTerm2                   37 mins             ████████████░░░░░░░░░░░░░   48.87 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+VS Code                  57 mins             ███████████████░░░░░░░░░░   59.35 % 
+iTerm2                   37 mins             ██████████░░░░░░░░░░░░░░░   38.04 % 
+Neovim                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🐱‍💻 Projects: 
-cbase64                  42 mins             ██████████████░░░░░░░░░░░   56.36 % 
-workspace                27 mins             █████████░░░░░░░░░░░░░░░░   35.90 % 
-base64                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-perihelion               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+cbase64                  1 hr 4 mins         █████████████████░░░░░░░░   66.22 % 
+xlib-window              19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+workspace                7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+base64                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 
- Last Updated on 17/05/2026 19:43:06 UTC
+ Last Updated on 18/05/2026 20:10:33 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
