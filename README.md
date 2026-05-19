@@ -22,27 +22,23 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-C                        37 mins             ██████████░░░░░░░░░░░░░░░   38.91 % 
-Other                    37 mins             ██████████░░░░░░░░░░░░░░░   38.04 % 
-Makefile                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Zig                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Other                    26 mins             ████████████░░░░░░░░░░░░░   47.77 % 
+C                        17 mins             ████████░░░░░░░░░░░░░░░░░   32.36 % 
+Makefile                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
-VS Code                  57 mins             ███████████████░░░░░░░░░░   59.35 % 
-iTerm2                   37 mins             ██████████░░░░░░░░░░░░░░░   38.04 % 
-Neovim                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+VS Code                  26 mins             ████████████░░░░░░░░░░░░░   47.94 % 
+iTerm2                   26 mins             ████████████░░░░░░░░░░░░░   47.77 % 
+Neovim                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🐱‍💻 Projects: 
-cbase64                  1 hr 4 mins         █████████████████░░░░░░░░   66.22 % 
-xlib-window              19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-workspace                7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-base64                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+cbase64                  35 mins             ████████████████░░░░░░░░░   64.36 % 
+xlib-window              19 mins             █████████░░░░░░░░░░░░░░░░   35.64 % 
 ```
 
 
- Last Updated on 18/05/2026 20:10:33 UTC
+ Last Updated on 19/05/2026 20:11:04 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
