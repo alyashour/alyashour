@@ -18,8 +18,30 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 <br>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 22/05/2026 20:17:13 UTC
+```text
+💬 Programming Languages: 
+Other                    2 hrs 5 mins        █████████████████████░░░░   83.92 % 
+Makefile                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+C                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+sshconfig                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+
+🔥 Editors: 
+iTerm2                   2 hrs 5 mins        █████████████████████░░░░   83.92 % 
+VS Code                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Neovim                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+
+🐱‍💻 Projects: 
+xlib-window              2 hrs 5 mins        █████████████████████░░░░   83.90 % 
+cbase64                  19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+```
+
+
+ Last Updated on 23/05/2026 19:43:07 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
