@@ -22,26 +22,26 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 5 mins        █████████████████████░░░░   83.92 % 
-Makefile                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-C                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-sshconfig                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Other                    2 hrs 9 mins        █████████████████████░░░░   84.35 % 
+Makefile                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+C                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+sshconfig                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-iTerm2                   2 hrs 5 mins        █████████████████████░░░░   83.92 % 
-VS Code                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Neovim                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+iTerm2                   2 hrs 9 mins        █████████████████████░░░░   84.35 % 
+VS Code                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Neovim                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 🐱‍💻 Projects: 
-xlib-window              2 hrs 5 mins        █████████████████████░░░░   83.90 % 
-cbase64                  19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+xlib-window              2 hrs 10 mins       █████████████████████░░░░   84.77 % 
+cbase64                  19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 
- Last Updated on 23/05/2026 19:43:07 UTC
+ Last Updated on 24/05/2026 19:45:37 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
