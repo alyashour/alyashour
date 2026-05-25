@@ -22,26 +22,22 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 9 mins        █████████████████████░░░░   84.35 % 
-Makefile                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-C                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-sshconfig                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Other                    1 hr 50 mins        ████████████████████████░   96.27 % 
+sshconfig                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-iTerm2                   2 hrs 9 mins        █████████████████████░░░░   84.35 % 
-VS Code                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Neovim                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+iTerm2                   1 hr 50 mins        ████████████████████████░   96.27 % 
+Neovim                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🐱‍💻 Projects: 
-xlib-window              2 hrs 10 mins       █████████████████████░░░░   84.77 % 
-cbase64                  19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+xlib-window              1 hr 50 mins        ████████████████████████░   96.27 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 
- Last Updated on 24/05/2026 19:45:37 UTC
+ Last Updated on 25/05/2026 20:07:17 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
