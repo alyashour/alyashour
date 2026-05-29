@@ -18,8 +18,24 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 <br>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 28/05/2026 20:40:57 UTC
+```text
+💬 Programming Languages: 
+Other                    59 mins             █████████████████████████   99.87 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+
+🔥 Editors: 
+iTerm2                   59 mins             █████████████████████████   99.87 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+
+🐱‍💻 Projects: 
+xlib-window              59 mins             █████████████████████████   99.87 % 
+Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+```
+
+
+ Last Updated on 29/05/2026 20:41:15 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
