@@ -22,20 +22,17 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    59 mins             █████████████████████████   99.87 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Other                    8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-iTerm2                   59 mins             █████████████████████████   99.87 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+iTerm2                   8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-xlib-window              59 mins             █████████████████████████   99.87 % 
-Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+xlib-window              8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/05/2026 19:47:09 UTC
+ Last Updated on 31/05/2026 19:47:25 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
