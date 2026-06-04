@@ -22,20 +22,21 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    20 mins             █████████████████████████   99.84 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Other                    21 mins             █████████████████████████   99.62 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-iTerm2                   20 mins             █████████████████████████   99.84 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+iTerm2                   21 mins             █████████████████████████   99.62 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🐱‍💻 Projects: 
-xlib-window              20 mins             █████████████████████████   99.84 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+xlib-window              21 mins             █████████████████████████   99.62 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 
 
- Last Updated on 03/06/2026 21:33:44 UTC
+ Last Updated on 04/06/2026 20:30:22 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
