@@ -3,7 +3,7 @@ I'm a Software Engineering student at Western University.
 I'm also founder and president of WE Autopilot club. Check us out on [our org page](https://github.com/WE-Autopilot).
 
 - 🔭 I’m currently working on Planning and Control of a self-driving car called AP1.
-- 🌱 I’m currently learning Go, C, ROS2, and OpenGL.
+- 🌱 I’m currently learning ARM Assembly, Machine Learning, C, ROS2, and OpenGL.
 
 Check out my website here: [alyashour.com](https://www.alyashour.com)
 
