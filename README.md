@@ -22,21 +22,25 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    21 mins             █████████████████████████   99.62 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    1 hr 5 mins         ████████████████████████░   97.98 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+ld                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-iTerm2                   21 mins             █████████████████████████   99.62 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+iTerm2                   1 hr 5 mins         ████████████████████████░   97.98 % 
+Neovim                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 🐱‍💻 Projects: 
-xlib-window              21 mins             █████████████████████████   99.62 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Notes                    34 mins             █████████████░░░░░░░░░░░░   51.63 % 
+xlib-window              23 mins             █████████░░░░░░░░░░░░░░░░   35.18 % 
+stm32-hello-world        8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 
- Last Updated on 04/06/2026 20:30:22 UTC
+ Last Updated on 05/06/2026 20:22:06 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
