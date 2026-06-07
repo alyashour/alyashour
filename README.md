@@ -18,29 +18,8 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 <br>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Other                    1 hr 56 mins        ████████████████████████░   95.93 % 
-gitignore                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-tmux                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-
-🔥 Editors: 
-iTerm2                   1 hr 56 mins        ████████████████████████░   95.93 % 
-Neovim                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-
-🐱‍💻 Projects: 
-stm32-hello-world        1 hr 2 mins         █████████████░░░░░░░░░░░░   51.48 % 
-Notes                    34 mins             ███████░░░░░░░░░░░░░░░░░░   28.34 % 
-xlib-window              23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-```
-
-
- Last Updated on 06/06/2026 19:51:49 UTC
+ Last Updated on 07/06/2026 19:52:51 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
