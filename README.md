@@ -22,25 +22,25 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 49 mins        ████████████████████████░   95.59 % 
-gitignore                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-tmux                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Other                    1 hr 37 mins        ████████████████████████░   95.13 % 
+gitignore                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+tmux                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-iTerm2                   1 hr 49 mins        ████████████████████████░   95.59 % 
-Neovim                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+iTerm2                   1 hr 37 mins        ████████████████████████░   95.13 % 
+Neovim                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🐱‍💻 Projects: 
-stm32-hello-world        1 hr 3 mins         ██████████████░░░░░░░░░░░   56.03 % 
-Notes                    34 mins             ████████░░░░░░░░░░░░░░░░░   30.16 % 
-xlib-window              14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+stm32-hello-world        1 hr 3 mins         ████████████████░░░░░░░░░   62.36 % 
+Notes                    34 mins             ████████░░░░░░░░░░░░░░░░░   33.56 % 
+xlib-window              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 
 
- Last Updated on 08/06/2026 20:38:15 UTC
+ Last Updated on 09/06/2026 20:24:28 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
