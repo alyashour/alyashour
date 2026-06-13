@@ -22,17 +22,17 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-iTerm2                   10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-stm32-hello-world        10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/06/2026 20:33:28 UTC
+ Last Updated on 13/06/2026 19:59:36 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
