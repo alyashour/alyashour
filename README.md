@@ -22,17 +22,20 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Assembly                 15 mins             ████████████░░░░░░░░░░░░░   48.25 % 
+C                        15 mins             ████████████░░░░░░░░░░░░░   47.83 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  32 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+stm32-imu-driver         32 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/06/2026 21:23:57 UTC
+ Last Updated on 17/06/2026 20:34:04 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
