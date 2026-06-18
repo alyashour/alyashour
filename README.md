@@ -22,20 +22,21 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Assembly                 15 mins             ████████████░░░░░░░░░░░░░   48.25 % 
-C                        15 mins             ████████████░░░░░░░░░░░░░   47.83 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Assembly                 49 mins             ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+Linker Script            39 mins             ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+Makefile                 28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+C                        26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Markdown                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-stm32-imu-driver         32 mins             █████████████████████████   100.00 % 
+stm32-imu-driver         2 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/06/2026 20:34:04 UTC
+ Last Updated on 18/06/2026 20:42:27 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
