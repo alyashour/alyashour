@@ -22,21 +22,23 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Assembly                 49 mins             ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-Linker Script            39 mins             ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Makefile                 28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-C                        26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Markdown                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Other                    2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 56 mins       █████████████████████████   100.00 % 
+iTerm2                   2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-stm32-imu-driver         2 hrs 56 mins       █████████████████████████   100.00 % 
+perihelion               2 mins              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 18/06/2026 20:42:27 UTC
+ Last Updated on 12/08/2026 00:41:50 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
