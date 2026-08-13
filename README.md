@@ -18,56 +18,56 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2057%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Astro                    1 hr 54 mins        █████████░░░░░░░░░░░░░░░░   37.45 % 
-C++                      1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-C#                       57 mins             █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-CMake                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Astro                    2 hrs 39 mins       ███████████░░░░░░░░░░░░░░   43.19 % 
+C++                      1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+C#                       57 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+CMake                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 6 mins        ███████████████░░░░░░░░░░   61.15 % 
-Claude Code              1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   33.36 % 
-iTerm2                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+VS Code                  3 hrs 16 mins       █████████████░░░░░░░░░░░░   52.96 % 
+Claude Code              2 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.57 % 
+iTerm2                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
 
 🐱‍💻 Projects: 
-alyashour.dev            2 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.26 % 
-strata                   1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   36.65 % 
-astra                    1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-perihelion               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-SDL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+alyashour.dev            3 hrs 8 mins        █████████████░░░░░░░░░░░░   50.89 % 
+strata                   1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   30.25 % 
+astra                    1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+SDL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+perihelion               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 12 mins (43.28%)
+⏱ AI Coding Time: 2 hrs 57 mins (48.05%)
 
-✍️ 960 lines written by AI, 322 lines written by hand (74.88% AI-written)
+✍️ 1,026 lines written by AI, 322 lines written by hand (76.11% AI-written)
 
-🔤 333,706 Input Tokens, 127,470 Output Tokens
+🔤 411,152 Input Tokens, 171,506 Output Tokens
 
-💵 $6.35 Estimated AI Cost This Week
+💵 $8.37 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 14 AI Prompts
+🧠 5 AI Sessions, 25 AI Prompts
 
-Sonnet                   1,169 lines         █████████████████████████   100.00 % 
+Sonnet                   1,244 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.88% of written lines came from AI
-📝 Concise Prompter — average 325 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 30.42% of changed lines were hand-edited
+🤖 AI-Driven — 76.11% of written lines came from AI
+📝 Concise Prompter — average 227 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 29.48% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/08/2026 19:35:04 UTC
+ Last Updated on 13/08/2026 19:32:54 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
