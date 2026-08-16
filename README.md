@@ -18,58 +18,58 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2020%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      7 hrs 36 mins       ██████████████░░░░░░░░░░░   54.80 % 
-Astro                    2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-C#                       57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-CMake                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+C++                      9 hrs 21 mins       ███████████████░░░░░░░░░░   59.26 % 
+Astro                    2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+C#                       57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+CMake                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 23 mins      ███████████████████░░░░░░   74.89 % 
-Claude Code              2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-iTerm2                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Neovim                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+VS Code                  12 hrs 8 mins       ███████████████████░░░░░░   76.92 % 
+Claude Code              2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+iTerm2                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Neovim                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🐱‍💻 Projects: 
-strata                   9 hrs 29 mins       █████████████████░░░░░░░░   68.39 % 
-alyashour.dev            3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-astra                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-imgui                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-SDL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+strata                   11 hrs 23 mins      ██████████████████░░░░░░░   72.20 % 
+alyashour.dev            3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+astra                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+imgui                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+SDL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 35 mins (25.91%)
+⏱ AI Coding Time: 4 hrs 15 mins (27.02%)
 
-✍️ 1,049 lines written by AI, 1,215 lines written by hand (46.33% AI-written)
+✍️ 1,052 lines written by AI, 1,434 lines written by hand (42.32% AI-written)
 
-🔤 529,135 Input Tokens, 191,654 Output Tokens
+🔤 566,259 Input Tokens, 200,121 Output Tokens
 
-💵 $9.41 Estimated AI Cost This Week
+💵 $9.72 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 48 AI Prompts
+🧠 18 AI Sessions, 93 AI Prompts
 
-Sonnet                   1,267 lines         █████████████████████████   100.00 % 
+Sonnet                   1,270 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.33% of written lines came from AI
-📝 Concise Prompter — average 292 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 59.55% of changed lines were hand-edited
+⚖️ Balanced with AI — 42.32% of written lines came from AI
+📝 Concise Prompter — average 199 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 62.77% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/08/2026 18:54:40 UTC
+ Last Updated on 16/08/2026 18:53:41 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
