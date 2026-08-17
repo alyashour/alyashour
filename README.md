@@ -18,58 +18,58 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      9 hrs 21 mins       ███████████████░░░░░░░░░░   59.26 % 
-Astro                    2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-C#                       57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-CMake                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+C++                      10 hrs 4 mins       ███████████████░░░░░░░░░░   60.45 % 
+Astro                    2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+C#                       57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+CMake                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 8 mins       ███████████████████░░░░░░   76.92 % 
-Claude Code              2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-iTerm2                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Neovim                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+VS Code                  12 hrs 42 mins      ███████████████████░░░░░░   76.23 % 
+Claude Code              2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+iTerm2                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Neovim                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🐱‍💻 Projects: 
-strata                   11 hrs 23 mins      ██████████████████░░░░░░░   72.20 % 
-alyashour.dev            3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-astra                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-imgui                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-SDL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+strata                   12 hrs 17 mins      ██████████████████░░░░░░░   73.69 % 
+alyashour.dev            3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+astra                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+imgui                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+SDL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 15 mins (27.02%)
+⏱ AI Coding Time: 4 hrs 31 mins (27.09%)
 
-✍️ 1,052 lines written by AI, 1,434 lines written by hand (42.32% AI-written)
+✍️ 1,052 lines written by AI, 1,448 lines written by hand (42.08% AI-written)
 
-🔤 566,259 Input Tokens, 200,121 Output Tokens
+🔤 584,181 Input Tokens, 203,854 Output Tokens
 
-💵 $9.72 Estimated AI Cost This Week
+💵 $9.99 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 93 AI Prompts
+🧠 19 AI Sessions, 94 AI Prompts
 
 Sonnet                   1,270 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 42.32% of written lines came from AI
-📝 Concise Prompter — average 199 characters per prompt
+⚖️ Balanced with AI — 42.08% of written lines came from AI
+📝 Concise Prompter — average 198 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 62.77% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 63.13% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/08/2026 18:53:41 UTC
+ Last Updated on 17/08/2026 19:06:03 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
