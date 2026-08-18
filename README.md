@@ -18,28 +18,28 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2016%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      10 hrs 4 mins       ███████████████░░░░░░░░░░   60.45 % 
-Astro                    2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-C#                       57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-CMake                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+C++                      10 hrs 4 mins       ███████████████░░░░░░░░░░   60.53 % 
+Astro                    2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+C#                       57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+CMake                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 42 mins      ███████████████████░░░░░░   76.23 % 
-Claude Code              2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-iTerm2                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+VS Code                  12 hrs 42 mins      ███████████████████░░░░░░   76.33 % 
+Claude Code              2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+iTerm2                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 Neovim                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🐱‍💻 Projects: 
-strata                   12 hrs 17 mins      ██████████████████░░░░░░░   73.69 % 
-alyashour.dev            3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-astra                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+strata                   12 hrs 17 mins      ██████████████████░░░░░░░   73.79 % 
+alyashour.dev            3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+astra                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 imgui                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 SDL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
@@ -47,7 +47,7 @@ SDL                      1 min               ░░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 31 mins (27.09%)
+⏱ AI Coding Time: 4 hrs 31 mins (27.12%)
 
 ✍️ 1,052 lines written by AI, 1,448 lines written by hand (42.08% AI-written)
 
@@ -69,7 +69,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/08/2026 19:06:03 UTC
+ Last Updated on 18/08/2026 19:05:44 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
