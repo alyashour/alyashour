@@ -24,32 +24,31 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-C++                      8 hrs 50 mins       ███████████████████░░░░░░   77.21 % 
-Other                    1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-CMake                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Python                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Git                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+C++                      7 hrs 29 mins       ███████████████████░░░░░░   74.93 % 
+Other                    1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+CMake                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Git                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 26 mins       █████████████████████░░░░   82.40 % 
-iTerm2                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Claude Code              39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Neovim                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+VS Code                  7 hrs 40 mins       ███████████████████░░░░░░   76.71 % 
+iTerm2                   1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Claude Code              39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Neovim                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🐱‍💻 Projects: 
-strata                   11 hrs 22 mins      █████████████████████████   99.28 % 
-imgui                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-jarvis                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-alyashour.dev            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+strata                   9 hrs 55 mins       █████████████████████████   99.23 % 
+imgui                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+jarvis                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (13.53%)
+⏱ AI Coding Time: 1 hr 33 mins (15.51%)
 
-✍️ 26 lines written by AI, 1,126 lines written by hand (2.26% AI-written)
+✍️ 26 lines written by AI, 896 lines written by hand (2.82% AI-written)
 
 🔤 173,029 Input Tokens, 32,348 Output Tokens
 
@@ -61,14 +60,14 @@ Sonnet                   70 lines            ███████████�
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.26% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 2.82% of written lines came from AI
 📝 Concise Prompter — average 188 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 98.45% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.91% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/08/2026 19:09:15 UTC
+ Last Updated on 21/08/2026 19:05:16 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
