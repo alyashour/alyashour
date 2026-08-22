@@ -24,50 +24,46 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-C++                      7 hrs 29 mins       ███████████████████░░░░░░   74.93 % 
-Other                    1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-CMake                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Git                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+C++                      2 hrs 30 mins       ███████████████░░░░░░░░░░   60.09 % 
+Other                    1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   32.94 % 
+CMake                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 40 mins       ███████████████████░░░░░░   76.71 % 
-iTerm2                   1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Claude Code              39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Neovim                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+VS Code                  2 hrs 24 mins       ██████████████░░░░░░░░░░░   57.64 % 
+iTerm2                   1 hr 21 mins        ████████░░░░░░░░░░░░░░░░░   32.59 % 
+Claude Code              24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 
 🐱‍💻 Projects: 
-strata                   9 hrs 55 mins       █████████████████████████   99.23 % 
-imgui                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-jarvis                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+strata                   4 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (15.51%)
+⏱ AI Coding Time: 55 mins (22.05%)
 
-✍️ 26 lines written by AI, 896 lines written by hand (2.82% AI-written)
+✍️ 3 lines written by AI, 259 lines written by hand (1.15% AI-written)
 
-🔤 173,029 Input Tokens, 32,348 Output Tokens
+🔤 57,596 Input Tokens, 14,796 Output Tokens
 
-💵 $2.00 Estimated AI Cost This Week
+💵 $0.67 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 69 AI Prompts
+🧠 5 AI Sessions, 78 AI Prompts
 
-Sonnet                   70 lines            █████████████████████████   100.00 % 
+Sonnet                   3 lines             █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.82% of written lines came from AI
-📝 Concise Prompter — average 188 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 97.91% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 1.15% of written lines came from AI
+📝 Concise Prompter — average 101 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🔍 Hands-On Reviewer — 99.12% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/08/2026 19:05:16 UTC
+ Last Updated on 22/08/2026 18:56:22 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
