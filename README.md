@@ -24,45 +24,23 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 22 mins        ███████████████░░░░░░░░░░   61.23 % 
-C++                      44 mins             ████████░░░░░░░░░░░░░░░░░   32.75 % 
-CMake                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-INI                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    1 hr 17 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-iTerm2                   1 hr 21 mins        ███████████████░░░░░░░░░░   60.60 % 
-VS Code                  38 mins             ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-Claude Code              15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+iTerm2                   1 hr 17 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-strata                   2 hrs 14 mins       █████████████████████████   100.00 % 
+strata                   1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (11.26%)
-
-✍️ 0 lines written by AI, 40 lines written by hand (0.0% AI-written)
-
-🔤 20,472 Input Tokens, 6,329 Output Tokens
-
-💵 $0.37 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 86 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 23/08/2026 18:55:42 UTC
+ Last Updated on 24/08/2026 19:08:42 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
