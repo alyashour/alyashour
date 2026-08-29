@@ -24,45 +24,48 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 44 mins       ██████████████████████░░░   87.96 % 
-Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Python                   2 hrs 46 mins       ████████████████░░░░░░░░░   65.63 % 
+Other                    1 hr 26 mins        █████████░░░░░░░░░░░░░░░░   34.16 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 42 mins       ██████████████████████░░░   86.45 % 
-iTerm2                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+VS Code                  2 hrs 43 mins       ████████████████░░░░░░░░░   64.18 % 
+Antigravity CLI          1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   33.45 % 
+iTerm2                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🐱‍💻 Projects: 
-prm                      2 hrs 45 mins       ██████████████████████░░░   88.25 % 
-strata                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+prm                      2 hrs 45 mins       ████████████████░░░░░░░░░   65.08 % 
+website-official         1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   32.69 % 
+strata                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+aly                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (2.07%)
+⏱ AI Coding Time: 1 hr 27 mins (34.55%)
 
-✍️ 0 lines written by AI, 276 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 279 lines written by hand (0.0% AI-written)
 
 🔤 13,719 Input Tokens, 1,948 Output Tokens
 
 💵 $0.07 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 6 AI Sessions, 24 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 60 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 123 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/08/2026 02:15:27 UTC
+ Last Updated on 29/08/2026 01:49:25 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
