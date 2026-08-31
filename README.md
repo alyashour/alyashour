@@ -24,27 +24,25 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 46 mins       ████████████████████████░   97.50 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Python                   2 hrs 44 mins       ████████████████████████░   97.48 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 43 mins       ████████████████████████░   95.34 % 
-iTerm2                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+VS Code                  2 hrs 43 mins       ████████████████████████░   96.43 % 
+iTerm2                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🐱‍💻 Projects: 
-prm                      2 hrs 45 mins       ████████████████████████░   96.69 % 
-strata                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-aly                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+prm                      2 hrs 45 mins       ████████████████████████░   97.79 % 
+strata                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (2.77%)
+⏱ AI Coding Time: 2 mins (1.66%)
 
 ✍️ 0 lines written by AI, 279 lines written by hand (0.0% AI-written)
 
@@ -52,19 +50,19 @@ aly                      1 min               ░░░░░░░░░░░�
 
 💵 $0.07 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 4 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 83 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 60 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/08/2026 21:20:14 UTC
+ Last Updated on 31/08/2026 22:57:30 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
