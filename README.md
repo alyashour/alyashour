@@ -24,13 +24,17 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    1 min               █████████████████████████   100.00 % 
+Other                    11 mins             █████████████░░░░░░░░░░░░   51.64 % 
+JavaScript               9 mins              ██████████░░░░░░░░░░░░░░░   41.77 % 
+HTML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 
 🔥 Editors: 
-iTerm2                   1 min               █████████████████████████   100.00 % 
+iTerm2                   11 mins             █████████████░░░░░░░░░░░░   51.64 % 
+VS Code                  10 mins             ████████████░░░░░░░░░░░░░   48.36 % 
 
 🐱‍💻 Projects: 
-strata                   1 min               █████████████████████████   100.00 % 
+strata                   11 mins             █████████████░░░░░░░░░░░░   51.64 % 
+rocketsim                10 mins             ████████████░░░░░░░░░░░░░   48.36 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -40,7 +44,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 09/09/2026 21:03:10 UTC
+ Last Updated on 10/09/2026 21:02:04 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
