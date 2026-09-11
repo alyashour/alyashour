@@ -24,17 +24,17 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    11 mins             █████████████░░░░░░░░░░░░   51.64 % 
-JavaScript               9 mins              ██████████░░░░░░░░░░░░░░░   41.77 % 
-HTML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Other                    9 mins              ████████████░░░░░░░░░░░░░   47.13 % 
+JavaScript               9 mins              ███████████░░░░░░░░░░░░░░   45.67 % 
+HTML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 
 🔥 Editors: 
-iTerm2                   11 mins             █████████████░░░░░░░░░░░░   51.64 % 
-VS Code                  10 mins             ████████████░░░░░░░░░░░░░   48.36 % 
+VS Code                  10 mins             █████████████░░░░░░░░░░░░   52.87 % 
+iTerm2                   9 mins              ████████████░░░░░░░░░░░░░   47.13 % 
 
 🐱‍💻 Projects: 
-strata                   11 mins             █████████████░░░░░░░░░░░░   51.64 % 
-rocketsim                10 mins             ████████████░░░░░░░░░░░░░   48.36 % 
+rocketsim                10 mins             █████████████░░░░░░░░░░░░   52.87 % 
+strata                   9 mins              ████████████░░░░░░░░░░░░░   47.13 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -44,7 +44,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 10/09/2026 21:02:04 UTC
+ Last Updated on 11/09/2026 21:06:50 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
