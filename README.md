@@ -24,27 +24,45 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    9 mins              ████████████░░░░░░░░░░░░░   47.13 % 
-JavaScript               9 mins              ███████████░░░░░░░░░░░░░░   45.67 % 
-HTML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Other                    32 mins             ███████████████████░░░░░░   75.09 % 
+JavaScript               9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████░░░░░░░░░░░░   52.87 % 
-iTerm2                   9 mins              ████████████░░░░░░░░░░░░░   47.13 % 
+iTerm2                   29 mins             █████████████████░░░░░░░░   69.06 % 
+VS Code                  10 mins             ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+Antigravity CLI          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🐱‍💻 Projects: 
-rocketsim                10 mins             █████████████░░░░░░░░░░░░   52.87 % 
-strata                   9 mins              ████████████░░░░░░░░░░░░░   47.13 % 
+rocketsim                29 mins             █████████████████░░░░░░░░   67.26 % 
+strata                   9 mins              ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+WEAP                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Default Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 5 mins (12.18%)
+
+✍️ 0 lines written by AI, 30 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 3 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 16 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/09/2026 21:06:50 UTC
+ Last Updated on 12/09/2026 20:45:11 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
