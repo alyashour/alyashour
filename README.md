@@ -24,45 +24,41 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    32 mins             ███████████████████░░░░░░   75.09 % 
-JavaScript               9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Other                    23 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-iTerm2                   29 mins             █████████████████░░░░░░░░   69.06 % 
-VS Code                  10 mins             ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-Antigravity CLI          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+iTerm2                   20 mins             ██████████████████████░░░   88.79 % 
+Antigravity CLI          2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🐱‍💻 Projects: 
-rocketsim                29 mins             █████████████████░░░░░░░░   67.26 % 
-strata                   9 mins              ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-WEAP                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Default Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+rocketsim                18 mins             ████████████████████░░░░░   80.41 % 
+WEAP                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Default Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (12.18%)
+⏱ AI Coding Time: 5 mins (24.32%)
 
-✍️ 0 lines written by AI, 30 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 16 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 22 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 21:29:44 UTC
+ Last Updated on 17/09/2026 21:34:33 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
