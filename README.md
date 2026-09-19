@@ -24,41 +24,23 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-iTerm2                   20 mins             ██████████████████████░░░   88.79 % 
-Antigravity CLI          2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rocketsim                18 mins             ████████████████████░░░░░   80.41 % 
-WEAP                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Default Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (24.32%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 4 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 22 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 18/09/2026 21:04:42 UTC
+ Last Updated on 19/09/2026 20:53:30 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
