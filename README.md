@@ -24,13 +24,16 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    54 mins             █████████████████████████   99.97 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+iTerm2                   54 mins             █████████████████████████   99.78 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+rocketsim                54 mins             █████████████████████████   99.78 % 
+ap1                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -40,7 +43,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 21/09/2026 22:05:37 UTC
+ Last Updated on 22/09/2026 21:32:22 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
