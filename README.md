@@ -24,29 +24,49 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    54 mins             ███████████████████████░░   91.09 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    58 mins             █████████░░░░░░░░░░░░░░░░   34.14 % 
+Markdown                 48 mins             ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+Python                   33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 
 🔥 Editors: 
-iTerm2                   54 mins             ███████████████████████░░   90.91 % 
-VS Code                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+VS Code                  1 hr 49 mins        ████████████████░░░░░░░░░   64.52 % 
+iTerm2                   54 mins             ████████░░░░░░░░░░░░░░░░░   32.22 % 
+Antigravity CLI          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-rocketsim                54 mins             ███████████████████████░░   90.91 % 
-map_lane_segmenter       5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-ap1                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+lane_seg_transform       1 hr 49 mins        ████████████████░░░░░░░░░   64.56 % 
+rocketsim                54 mins             ████████░░░░░░░░░░░░░░░░░   32.22 % 
+map_lane_segmenter       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+ap1                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 7 mins (4.23%)
+
+✍️ 0 lines written by AI, 458 lines written by hand (0.0% AI-written)
+
+🔤 133,612 Input Tokens, 4,072 Output Tokens
+
+💵 $0.12 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 7 AI Prompts
+
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 149 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/09/2026 21:21:41 UTC
+ Last Updated on 27/09/2026 21:30:12 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
