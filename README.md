@@ -24,31 +24,29 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    58 mins             ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-Markdown                 57 mins             ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-HTML                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Python                   33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-JavaScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Python                   1 hr 59 mins        ███████████░░░░░░░░░░░░░░   44.70 % 
+Markdown                 58 mins             █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+HTML                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+JavaScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 15 mins       ███████████████░░░░░░░░░░   58.37 % 
-iTerm2                   54 mins             ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Antigravity CLI          41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+VS Code                  3 hrs 44 mins       █████████████████████░░░░   84.22 % 
+Antigravity CLI          41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+iTerm2                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-lane_seg_transform       2 hrs 51 mins       ██████████████████░░░░░░░   73.99 % 
-rocketsim                54 mins             ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-map_lane_segmenter       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-ap1                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+lane_seg_transform       2 hrs 52 mins       ████████████████░░░░░░░░░   64.50 % 
+Lab 3                    1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   32.96 % 
+map_lane_segmenter       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr (26.26%)
+⏱ AI Coding Time: 1 hr (22.83%)
 
-✍️ 0 lines written by AI, 469 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,294 lines written by hand (0.0% AI-written)
 
 🔤 707,089 Input Tokens, 61,169 Output Tokens
 
@@ -66,7 +64,7 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/09/2026 23:25:28 UTC
+ Last Updated on 29/09/2026 22:29:26 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
