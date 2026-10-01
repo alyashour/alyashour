@@ -24,29 +24,30 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   31.06 % 
-HTML                     1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-JavaScript               1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Markdown                 1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Python                   1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+HTML                     1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+JavaScript               1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Markdown                 1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 26 mins       █████████████████░░░░░░░░   69.27 % 
-Codex Vscode             1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-Antigravity CLI          46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-iTerm2                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+VS Code                  4 hrs 27 mins       ████████████████░░░░░░░░░   65.48 % 
+Codex Vscode             1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Antigravity CLI          46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+iTerm2                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 🐱‍💻 Projects: 
-lane_seg_transform       2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   44.82 % 
-ap_rally                 1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   30.51 % 
-Lab 3                    1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
-map_lane_segmenter       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+lane_seg_transform       2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   42.20 % 
+ap_rally                 2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.31 % 
+Lab 3                    1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+map_lane_segmenter       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Tasks                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 49 mins (44.15%)
+⏱ AI Coding Time: 2 hrs 49 mins (41.58%)
 
 ✍️ 1,245 lines written by AI, 2,308 lines written by hand (35.04% AI-written)
 
@@ -63,11 +64,11 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 ⚖️ Balanced with AI — 35.04% of written lines came from AI
 📚 Verbose Prompter — average 5,278 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 77.14% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 77.16% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/09/2026 22:27:34 UTC
+ Last Updated on 01/10/2026 22:49:04 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
