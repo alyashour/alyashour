@@ -18,57 +18,58 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2037%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   29.25 % 
-HTML                     1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-JavaScript               1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Markdown                 1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Python                   3 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   35.40 % 
+HTML                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Other                    1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+JavaScript               1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Markdown                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 27 mins       ████████████████░░░░░░░░░   65.48 % 
-Codex Vscode             1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Antigravity CLI          46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-iTerm2                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+VS Code                  5 hrs 29 mins       ███████████████░░░░░░░░░░   60.38 % 
+iTerm2                   1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Codex Vscode             1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Antigravity CLI          59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🐱‍💻 Projects: 
-lane_seg_transform       2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   42.20 % 
-ap_rally                 2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.31 % 
-Lab 3                    1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-map_lane_segmenter       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Tasks                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+lane_seg_transform       2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.53 % 
+ap_rally                 2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+SE4472                   2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Lab 3                    1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+map_lane_segmenter       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 49 mins (41.58%)
+⏱ AI Coding Time: 3 hrs 12 mins (35.19%)
 
-✍️ 1,245 lines written by AI, 2,308 lines written by hand (35.04% AI-written)
+✍️ 1,245 lines written by AI, 3,031 lines written by hand (29.12% AI-written)
 
-🔤 1,074,040 Input Tokens, 135,628 Output Tokens
+🔤 1,200,019 Input Tokens, 145,056 Output Tokens
 
-💵 $14.26 Estimated AI Cost This Week
+💵 $14.39 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 78 AI Prompts
+🧠 13 AI Sessions, 117 AI Prompts
 
 GPT                      1,264 lines         █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 35.04% of written lines came from AI
-📚 Verbose Prompter — average 5,278 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 77.16% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 29.12% of written lines came from AI
+📚 Verbose Prompter — average 3,522 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 79.94% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/10/2026 22:49:04 UTC
+ Last Updated on 02/10/2026 22:25:32 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
