@@ -24,53 +24,51 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   37.12 % 
-Markdown                 3 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-Python                   2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Astro                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Other                    4 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.59 % 
+Markdown                 3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.76 % 
+Python                   1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Astro                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 43 mins       ███████████░░░░░░░░░░░░░░   42.06 % 
-iTerm2                   4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-Codex Vscode             2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Neovim                   1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Antigravity CLI          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+VS Code                  4 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   41.23 % 
+iTerm2                   3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+Codex Vscode             2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Neovim                   1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 
 🐱‍💻 Projects: 
-portfolio                6 hrs 21 mins       ████████████░░░░░░░░░░░░░   46.71 % 
-SE4472                   3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.05 % 
-Slides                   2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-create-a-scheduled-task-c22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-m                        17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+portfolio                6 hrs 21 mins       ██████████████░░░░░░░░░░░   56.38 % 
+Slides                   2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+SE4472                   1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+create-a-scheduled-task-c22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+m                        17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 55 mins (43.55%)
+⏱ AI Coding Time: 5 hrs 33 mins (49.23%)
 
-✍️ 0 lines written by AI, 1,096 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 372 lines written by hand (0.0% AI-written)
 
-🔤 1,900,370 Input Tokens, 138,593 Output Tokens
+🔤 1,774,391 Input Tokens, 129,165 Output Tokens
 
-💵 $105.59 Estimated AI Cost This Week
+💵 $105.46 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 230 AI Prompts
+🧠 24 AI Sessions, 139 AI Prompts
 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 6,775 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 11,205 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/10/2026 23:29:12 UTC
+ Last Updated on 09/10/2026 22:47:11 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
