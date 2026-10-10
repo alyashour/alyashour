@@ -18,57 +18,57 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2059%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.59 % 
-Markdown                 3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.76 % 
-Python                   1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Astro                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Markdown                 4 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   40.56 % 
+Other                    4 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   39.35 % 
+Astro                    1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   41.23 % 
-iTerm2                   3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-Codex Vscode             2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Neovim                   1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+VS Code                  3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.52 % 
+iTerm2                   2 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+Codex Vscode             2 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+Neovim                   1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
 
 🐱‍💻 Projects: 
-portfolio                6 hrs 21 mins       ██████████████░░░░░░░░░░░   56.38 % 
-Slides                   2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-SE4472                   1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-create-a-scheduled-task-c22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-m                        17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+portfolio                6 hrs 21 mins       ███████████████░░░░░░░░░░   61.37 % 
+Slides                   2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+l                        34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+create-a-scheduled-task-c22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+m                        17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 33 mins (49.23%)
+⏱ AI Coding Time: 6 hrs 12 mins (59.94%)
 
-✍️ 0 lines written by AI, 372 lines written by hand (0.0% AI-written)
+✍️ 24 lines written by AI, 206 lines written by hand (10.43% AI-written)
 
-🔤 1,774,391 Input Tokens, 129,165 Output Tokens
+🔤 2,095,101 Input Tokens, 151,479 Output Tokens
 
-💵 $105.46 Estimated AI Cost This Week
+💵 $106.62 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 139 AI Prompts
+🧠 26 AI Sessions, 150 AI Prompts
 
+GPT                      24 lines            █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 11,205 characters per prompt
+🧑‍💻 Mostly Hands-On — 10.43% of written lines came from AI
+📚 Verbose Prompter — average 10,397 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 91.37% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/10/2026 22:47:11 UTC
+ Last Updated on 10/10/2026 21:54:47 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
