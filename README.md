@@ -24,50 +24,34 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   39.81 % 
-Markdown                 1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   35.60 % 
-Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-C                        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-CMake                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+C++                      1 hr 9 mins         ███████████████░░░░░░░░░░   61.77 % 
+Other                    29 mins             ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+C                        7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+CMake                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 14 mins       ███████████████████░░░░░░   76.82 % 
-iTerm2                   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Codex Vscode             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+VS Code                  1 hr 22 mins        ██████████████████░░░░░░░   73.04 % 
+iTerm2                   29 mins             ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-strata                   1 hr 15 mins        ███████████░░░░░░░░░░░░░░   43.23 % 
-Tasks                    1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   41.21 % 
-survival-game            26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-hover-baselines          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+strata                   1 hr 15 mins        █████████████████░░░░░░░░   67.08 % 
+survival-game            26 mins             ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Tasks                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+hover-baselines          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (6.05%)
-
-✍️ 0 lines written by AI, 363 lines written by hand (0.0% AI-written)
-
-🔤 18,944 Input Tokens, 4,124 Output Tokens
-
-💵 $0.11 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 6 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 655 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 17/10/2026 20:47:25 UTC
+ Last Updated on 18/10/2026 20:56:27 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
