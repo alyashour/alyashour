@@ -24,23 +24,23 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 8 mins         ████████████░░░░░░░░░░░░░   47.00 % 
-Markdown                 44 mins             ████████░░░░░░░░░░░░░░░░░   30.75 % 
-Other                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-C                        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-CMake                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Markdown                 2 hrs 12 mins       ███████████████░░░░░░░░░░   61.41 % 
+Bash                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+C++                      27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 7 mins        ██████████████████████░░░   86.97 % 
-iTerm2                   18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+VS Code                  3 hrs 18 mins       ███████████████████████░░   92.12 % 
+iTerm2                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-strata                   1 hr 8 mins         ████████████░░░░░░░░░░░░░   46.50 % 
-ava1                     44 mins             ████████░░░░░░░░░░░░░░░░░   30.70 % 
-survival-game            32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+sparlab                  2 hrs 34 mins       ██████████████████░░░░░░░   72.06 % 
+ava1                     45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+survival-game            13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -50,7 +50,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 19/10/2026 22:31:52 UTC
+ Last Updated on 20/10/2026 21:46:30 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
