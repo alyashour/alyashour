@@ -18,38 +18,56 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2058%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 11 mins       ██████████████░░░░░░░░░░░   55.71 % 
-Other                    45 mins             █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Bash                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-C++                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Markdown                 2 hrs 11 mins       ███████████░░░░░░░░░░░░░░   45.98 % 
+Other                    1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   33.17 % 
+Bash                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+C++                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 11 mins       ████████████████████░░░░░   80.74 % 
-iTerm2                   45 mins             █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+VS Code                  3 hrs 11 mins       █████████████████░░░░░░░░   66.64 % 
+Codex Vscode             47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+iTerm2                   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-sparlab                  3 hrs 3 mins        ███████████████████░░░░░░   77.58 % 
-ava1                     45 mins             █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-survival-game            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+sparlab                  3 hrs 6 mins        ████████████████░░░░░░░░░   64.82 % 
+ava1                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+let                      41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+survival-game            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+hi-x20                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 47 mins (16.67%)
+
+✍️ 0 lines written by AI, 503 lines written by hand (0.0% AI-written)
+
+🔤 422,809 Input Tokens, 47,442 Output Tokens
+
+💵 $4.72 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 9 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 442 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/10/2026 21:52:21 UTC
+ Last Updated on 22/10/2026 21:49:19 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
