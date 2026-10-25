@@ -18,56 +18,56 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2034%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 11 mins       ███████████░░░░░░░░░░░░░░   45.98 % 
-Other                    1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   33.17 % 
-Bash                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-C++                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Other                    3 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.96 % 
+Markdown                 2 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.43 % 
+Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+C++                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 11 mins       █████████████████░░░░░░░░   66.64 % 
-Codex Vscode             47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-iTerm2                   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+VS Code                  3 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.89 % 
+Codex Vscode             2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.60 % 
+iTerm2                   47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-sparlab                  3 hrs 6 mins        ████████████████░░░░░░░░░   64.82 % 
-ava1                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-let                      41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-survival-game            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-hi-x20                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+sparlab                  3 hrs 6 mins        ████████████░░░░░░░░░░░░░   48.54 % 
+hi-x20                   1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+ava1                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+let                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+is-x20                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (16.67%)
+⏱ AI Coding Time: 2 hrs 24 mins (37.6%)
 
 ✍️ 0 lines written by AI, 503 lines written by hand (0.0% AI-written)
 
-🔤 422,809 Input Tokens, 47,442 Output Tokens
+🔤 688,473 Input Tokens, 59,302 Output Tokens
 
-💵 $4.72 Estimated AI Cost This Week
+💵 $12.76 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 9 AI Prompts
+🧠 6 AI Sessions, 33 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 442 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 301 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/10/2026 21:01:25 UTC
+ Last Updated on 25/10/2026 21:01:52 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
