@@ -24,32 +24,32 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.96 % 
-Markdown                 2 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.43 % 
-Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-C++                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    3 hrs 4 mins        ██████████████░░░░░░░░░░░   55.82 % 
+Markdown                 1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+Bash                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+C++                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.89 % 
-Codex Vscode             2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.60 % 
-iTerm2                   47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+VS Code                  2 hrs 26 mins       ███████████░░░░░░░░░░░░░░   44.18 % 
+Codex Vscode             2 hrs 24 mins       ███████████░░░░░░░░░░░░░░   43.51 % 
+iTerm2                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-sparlab                  3 hrs 6 mins        ████████████░░░░░░░░░░░░░   48.54 % 
-hi-x20                   1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-ava1                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-let                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-is-x20                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+sparlab                  3 hrs 6 mins        ██████████████░░░░░░░░░░░   56.18 % 
+hi-x20                   1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+let                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+is-x20                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+llm                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 24 mins (37.6%)
+⏱ AI Coding Time: 2 hrs 24 mins (43.51%)
 
-✍️ 0 lines written by AI, 503 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 403 lines written by hand (0.0% AI-written)
 
 🔤 688,473 Input Tokens, 59,302 Output Tokens
 
@@ -67,7 +67,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/10/2026 21:01:52 UTC
+ Last Updated on 26/10/2026 22:48:26 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
