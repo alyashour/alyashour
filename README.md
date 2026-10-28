@@ -24,50 +24,50 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 23 mins       █████████████████░░░░░░░░   66.81 % 
-Python                   1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-Git                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Other                    4 hrs 30 mins       ████████████████░░░░░░░░░   64.95 % 
+Python                   1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+C++                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Git                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 50 mins       ███████████░░░░░░░░░░░░░░   43.13 % 
-VS Code                  1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-iTerm2                   1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Neovim                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Codex Vscode             3 hrs 12 mins       ████████████░░░░░░░░░░░░░   46.26 % 
+VS Code                  1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+iTerm2                   1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Neovim                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
 
 🐱‍💻 Projects: 
-Assignment2              1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-hi-x20                   1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-Project                  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-let                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-sparlab                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+hi-x20                   1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+Assignment2              1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Project                  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+let                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Unknown Project          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 15 mins (49.6%)
+⏱ AI Coding Time: 3 hrs 40 mins (52.88%)
 
-✍️ 0 lines written by AI, 305 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 297 lines written by hand (0.0% AI-written)
 
-🔤 897,782 Input Tokens, 67,815 Output Tokens
+🔤 1,018,703 Input Tokens, 72,314 Output Tokens
 
-💵 $13.42 Estimated AI Cost This Week
+💵 $15.84 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 51 AI Prompts
+🧠 17 AI Sessions, 60 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 252 characters per prompt
+📝 Concise Prompter — average 256 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/10/2026 22:27:45 UTC
+ Last Updated on 28/10/2026 22:44:13 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
