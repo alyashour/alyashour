@@ -18,56 +18,58 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%203%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 30 mins       ████████████████░░░░░░░░░   64.95 % 
-Python                   1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-C++                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Git                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Other                    6 hrs 18 mins       ██████████████████░░░░░░░   70.45 % 
+Python                   1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Git                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 12 mins       ████████████░░░░░░░░░░░░░   46.26 % 
-VS Code                  1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-iTerm2                   1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Neovim                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+iTerm2                   3 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   40.26 % 
+Codex Vscode             2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+VS Code                  1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Neovim                   54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Antigravity CLI          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-hi-x20                   1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-Assignment2              1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Project                  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-let                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Unknown Project          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+ch-2                     2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   32.16 % 
+hi-x20                   1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Assignment2              1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Project                  50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 40 mins (52.88%)
+⏱ AI Coding Time: 3 hrs 26 mins (38.35%)
 
-✍️ 0 lines written by AI, 297 lines written by hand (0.0% AI-written)
+✍️ 14 lines written by AI, 297 lines written by hand (4.5% AI-written)
 
-🔤 1,018,703 Input Tokens, 72,314 Output Tokens
+🔤 891,873 Input Tokens, 53,840 Output Tokens
 
-💵 $15.84 Estimated AI Cost This Week
+💵 $12.08 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 60 AI Prompts
+🧠 17 AI Sessions, 57 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      14 lines            █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 256 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 4.5% of written lines came from AI
+📝 Concise Prompter — average 214 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 97.98% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/10/2026 22:44:13 UTC
+ Last Updated on 29/10/2026 22:53:24 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
