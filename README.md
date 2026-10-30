@@ -18,58 +18,58 @@ Check out my website here: [alyashour.com](https://www.alyashour.com)
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%203%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 18 mins       ██████████████████░░░░░░░   70.45 % 
-Python                   1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Git                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Other                    7 hrs 9 mins        █████████████████░░░░░░░░   68.60 % 
+Python                   1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Git                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-iTerm2                   3 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   40.26 % 
-Codex Vscode             2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-VS Code                  1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-Neovim                   54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Antigravity CLI          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+iTerm2                   4 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.98 % 
+Codex Vscode             3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.45 % 
+VS Code                  1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Neovim                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Antigravity CLI          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-ch-2                     2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   32.16 % 
-hi-x20                   1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Assignment2              1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Project                  50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+ch-2                     3 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.03 % 
+hi-x20                   1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Assignment2              1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+hi-chat-let-s-work-on    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Project                  50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 26 mins (38.35%)
+⏱ AI Coding Time: 4 hrs 26 mins (42.51%)
 
-✍️ 14 lines written by AI, 297 lines written by hand (4.5% AI-written)
+✍️ 700 lines written by AI, 297 lines written by hand (70.21% AI-written)
 
-🔤 891,873 Input Tokens, 53,840 Output Tokens
+🔤 1,065,156 Input Tokens, 117,430 Output Tokens
 
-💵 $12.08 Estimated AI Cost This Week
+💵 $14.24 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 57 AI Prompts
+🧠 19 AI Sessions, 69 AI Prompts
 
-GPT                      14 lines            █████████████████████████   100.00 % 
+GPT                      700 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.5% of written lines came from AI
-📝 Concise Prompter — average 214 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 97.98% of changed lines were hand-edited
+🤖 AI-Driven — 70.21% of written lines came from AI
+📝 Concise Prompter — average 278 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 49.24% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/10/2026 22:53:24 UTC
+ Last Updated on 30/10/2026 22:32:22 UTC
 <!--END_SECTION:waka-->
 
 <h2>Some of what I've been working on...</h2>
